@@ -65,7 +65,7 @@ function Signin() {
                         <LockOutlinedIcon/>
                     </Avatar>
                     <Typography component="h1" variant="h5">
-                        Sign-in
+                        Inicio de Sesion
                     </Typography>
 
                     <form className='form' noValidate onSubmit={submit}>
