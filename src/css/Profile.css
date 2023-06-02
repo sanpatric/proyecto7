@@ -1,0 +1,14 @@
+.root{
+    flex-grow: 1;
+}
+
+.title{
+    flex-grow: 1;
+
+}
+
+.large{
+    width: 20px;
+    height: 20px;
+
+}

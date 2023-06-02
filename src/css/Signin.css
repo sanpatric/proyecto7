@@ -1,0 +1,31 @@
+.root{
+    height: '100vh';
+
+}
+.image{
+    background-image: url("https://source.unsplash.com/random/900x700/?fruit");
+    background-size: cover;
+
+}
+/*parte formulario*/
+.paper{
+    margin: 150px;
+    display: 'flex';
+    flex-direction: 'column';
+    align-items: 'center';
+
+}
+.Avatar{
+    margin: 70px;
+    background-color: blue;
+
+}
+.form{
+    width: 270px;
+    margin-top: 10px;
+
+}
+.submit{
+    margin: 20px;
+
+}
